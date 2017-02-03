@@ -1,7 +1,7 @@
 public class HitungLuas{
 
-	Public static int cariluaspersegipanjang(int panjang, int lebar){
-		return panjang*lebar
+	Public static int cariluassegitiga(int a, int t){
+		return a*t/2
 	}
 	
 	public static void main (String[] args){
